@@ -1,0 +1,2 @@
+# Project-13-Bank-System-Currency-Exchange-OOP-
+An OOP-based Bank System in C++ extended with a Currency Exchange module. This module allows to view current exchange rates, convert between multiple currencies, &amp; manage currency balances. The project demonstrates how large systems can be expanded by integrating smaller modules, providing hands-on practice in project scalability &amp; modular design.
